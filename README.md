@@ -2,7 +2,7 @@
 
 Pinterest on Android, without the ads.
 
-DisPinterest is a tiny app (about 0.2 MB) that opens the real Pinterest website and tidies it up: sponsored pins are removed, the whole thing is dark, and a few things the website doesn't do — swiping between pins, saving videos — are added on top.
+DisPinterest is a tiny app (about 0.2 MB) that opens the real Pinterest website and tidies it up: no more ads, and you can now download videos too.
 
 It is not made by, endorsed by, or connected to Pinterest.
 
@@ -18,10 +18,8 @@ Needs Android 10 or newer.
 
 - **No ads.** Sponsored pins are taken out of every feed, and the pins around them close up so there are no blank spaces.
 - **Much smaller.** About 0.2 MB to download, against roughly 90 MB for the official app.
-- **Dark mode everywhere.** Always on. Photos and videos keep their real colours.
 - **Save videos.** Open a video pin and tap **Save video** in the top corner. It goes to your gallery under `Movies/DisPinterest` and shows up as your newest item.
 - **Save pictures at full size.** Open a pin, tap **•••**, then **Download image**. You get the original upload when there is one, saved under `Pictures/DisPinterest`.
-- **Swipe between pins.** Open a pin, then swipe left or right to move to the next or previous one. Back takes you to the pin you came from.
 - **Fewer trackers.** Third-party advertising and analytics services are blocked.
 - **No "open in the app" hand-offs.** Links stay inside DisPinterest.
 
@@ -33,7 +31,7 @@ Everything else is Pinterest's own website, so your home feed, search, boards, s
 - **It is the website, not the official app.** Anything Pinterest only offers in its own app won't be here.
 - **Swiping very quickly** can skip a swipe while the next pin is still loading. Give it a moment between swipes.
 - **Pinterest can change its website at any time.** If it does, ads or other parts may come back until the app is updated.
-- **Use it at your own risk.** DisPinterest shows you the real site and signs you in the normal way, but hiding ads isn't something Pinterest supports, and it could object to how you use your account.
+- **Use it at your own risk.** DisPinterest shows you the real site and signs you in the normal way, but hiding ads isn't something Pinterest supports.
 
 ## How it works
 
