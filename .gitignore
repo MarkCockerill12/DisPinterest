@@ -1,0 +1,20 @@
+# Build output
+.gradle
+.kotlin
+build
+app/build
+local.properties
+*.apk
+
+# Editor
+.idea
+*.iml
+.vscode
+.DS_Store
+
+# Local
+*.log
+*.jks
+*.keystore
+keystore.properties
+scripts
