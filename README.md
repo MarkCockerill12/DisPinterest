@@ -29,7 +29,7 @@ Everything else is Pinterest's own website, so your home feed, search, boards, s
 
 ## Good to know
 
-- **No notifications.** The app can't show Pinterest push notifications.
+- **No notifications.** Pinterest's instant notifications are delivered only to its official app, and DisPinterest has no way to receive them. The only alternative would be for the app to keep checking Pinterest in the background, which would use battery while you aren't using it, so it deliberately doesn't. You'll see anything new when you open the app. If you want to be told sooner, Pinterest can email you instead: turn that on in Pinterest's own notification settings.
 - **It is the website, not the official app.** Anything Pinterest only offers in its own app won't be here.
 - **Swiping very quickly** can skip a swipe while the next pin is still loading. Give it a moment between swipes.
 - **Pinterest can change its website at any time.** If it does, ads or other parts may come back until the app is updated.
